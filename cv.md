@@ -1,5 +1,4 @@
 # Viktoria Ritter
-_____
 ### Contacts
 - __Location:__ Russia, Tyumen
 - __Phone:__ +7 992 306 84 96
@@ -41,6 +40,7 @@ _____
 - __Courses:__ 
     - HTML Academy
     - RS School JavaScript/Front-end 2023Q4
+
 ### English
 _____  
 __Beginner__ (сurrently studying)
