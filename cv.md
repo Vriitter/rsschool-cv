@@ -15,6 +15,7 @@ _____
   - CSS
   - JavaScript(Basic)
   - Git
+
 ### Code Example
 _____
 ``` 
@@ -32,10 +33,12 @@ function simpleNum(num){
  return true
 }
 simpleNum(num) 
-``` 
+```
+
 ### Experience
 _____
 No experience
+
 ### Education
 _____
   - __University:__ Tyumen State University, Journalism
