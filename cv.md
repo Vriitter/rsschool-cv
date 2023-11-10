@@ -1,5 +1,3 @@
-rsschool-cv
-_____
 # Viktoria Ritter
 _____
 ### Contacts
@@ -43,6 +41,7 @@ _____
 - __Courses:__ 
     - HTML Academy
     - RS School JavaScript/Front-end 2023Q4
+_____
 ### English
 _____  
 __Beginner__ (сurrently studying)
