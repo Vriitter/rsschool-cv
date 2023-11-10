@@ -36,6 +36,7 @@ simpleNum(num)
 ``` 
 ### Experience
 _____
+No experience
 ### Education
 _____
 - __University:__ Tyumen State University, Journalism
