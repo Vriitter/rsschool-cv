@@ -38,6 +38,7 @@ No experience
       + Udemy
       + FreeCodeCamp
       + RS School
+      + Electives for creating websites at the university
 
 ## Languages
    * Russian
