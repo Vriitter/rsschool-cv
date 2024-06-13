@@ -8,8 +8,36 @@ html {
    box-sizing: inherit;
 }
 
+body {
+   font-family: "Inter", sans-serif;
+   font-weight: 400;
+   font-size: 11px;
+   color: #848484;
+}
+
 .container {
-   width: 594px;
+   width: 595px;
    margin: 0 auto;
-   padding: 0 23px;
+   padding: 0 10px;
+}
+
+/* Header */
+.header__inner {
+   padding: 32px 0 46px;
+   border-bottom: 1px solid #ECECEC;
+   display: flex;
+   align-items: center;
+   gap: 20px;
+}
+
+.header__img {
+   width: 100px;
+   border-radius: 10px;
+}
+
+.title {
+   font-weight: 600;
+   font-size: 22px;
+   line-height: 123%;
+   color: #1a1a1a;
 }
