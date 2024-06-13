@@ -1,0 +1,15 @@
+html {
+   box-sizing: border-box;
+}
+
+*, 
+*::after, 
+*::before {
+   box-sizing: inherit;
+}
+
+.container {
+   width: 594px;
+   margin: 0 auto;
+   padding: 0 23px;
+}
