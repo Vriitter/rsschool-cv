@@ -12,6 +12,7 @@ body {
    font-family: "Inter", sans-serif;
    font-weight: 400;
    font-size: 11px;
+   line-height: 181%;
    color: #848484;
 }
 
@@ -108,4 +109,20 @@ a {
    padding: 10px;
    background-color: #ebebeb;
    border-radius: 5px;
+}
+
+/* About */
+.about {
+   padding: 28px 8px;
+   border-bottom: 1px solid #ECECEC;
+}
+
+.about__inner {
+   display: flex;
+   align-items: flex-start;
+   justify-content: space-between;
+}
+
+.about__text {
+   width: 370px;
 }
