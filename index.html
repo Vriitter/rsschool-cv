@@ -177,8 +177,20 @@
             </div>
          </section>
 
-
-      </div>
+         <section class="code">
+            <div class="code__inner">
+               <h2 class="title-h2">Code examples</h2>
+               <div class="code__block">
+                  <pre>
+                     <code>
+   function isPalindrome(str) {
+      const cleanStr = str.toLowerCase().replace(/[^a-zA-Z0-9]/g, '');
+      return cleanStr === cleanStr.split('').reverse().join('');
+   };
+</code></pre>
+               </div>
+            </div>
+         </section>
    </main>
 
 </body>

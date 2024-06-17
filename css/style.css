@@ -212,3 +212,21 @@ a:hover {
    background-color: #ebebeb;
    border-radius: 5px;
 }
+
+/*Code*/
+.code {
+   padding: 28px 8px;
+   border-bottom: 1px solid #ECECEC;
+}
+
+pre {
+   margin: 0;
+   padding: 0 0 13px;
+}
+
+.code__block {
+   color: #1A1A1A;
+   background-color: #ebebeb;
+   border-radius: 5px;
+   margin: 0 0 5px;
+}
