@@ -230,3 +230,10 @@ pre {
    border-radius: 5px;
    margin: 0 0 5px;
 }
+
+.code__block a {
+   font-family: "Inter", sans-serif;
+   font-weight: 600;
+   font-size: 11px;
+   text-decoration: underline;
+}

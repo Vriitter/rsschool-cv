@@ -183,10 +183,15 @@
                <div class="code__block">
                   <pre>
                      <code>
-   function isPalindrome(str) {
-      const cleanStr = str.toLowerCase().replace(/[^a-zA-Z0-9]/g, '');
-      return cleanStr === cleanStr.split('').reverse().join('');
+   function sumOfCodes(str){
+      let sum = 0;
+      for(let i = 0; i < str.length; i++){
+         sum += str.charCodeAt(i)
+      }
+      return sum
    };
+
+   <a href="https://codepen.io/Vriitter/pen/NWVXmJP?editors=0011" target="_blank">Open CodePen</a>
 </code></pre>
                </div>
             </div>
