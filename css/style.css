@@ -262,3 +262,28 @@ pre {
    font-size: 13px;
    text-align: center;
  }
+ 
+.languages {
+   padding: 28px 8px;
+   border-bottom: 1px solid #ECECEC
+}
+
+ .languages__inner {
+   display: flex;
+   justify-content: space-between;
+   align-items: center;
+ }
+
+ .languages__list {
+   display: flex;
+   gap: 14px;
+   color: #1A1A1A;
+   font-weight: 500;
+ }
+ 
+ .languages__list-item {
+   text-align: center;
+   padding: 10px 20px;
+   background-color: #ebebeb;
+   border-radius: 5px;
+ }
