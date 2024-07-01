@@ -2,7 +2,7 @@
 
 ## Contacts
    * **Location:** Tyumen, Russia
-   * **Phone:** 8-992-306-84-96
+   * **Phone:** 8&nbsp992&nbsp306&nbsp84&nbsp96
    * **E-mail:** vika.ritter.03@gmail.com
    * **GitHub:**  [vriitter](адрес  "https://github.com/Vriitter")
    * **Discord:** vriitter
